@@ -1,4 +1,4 @@
-<?php 
+<?php
 make(function($var)
 {
     return $var * 3 
