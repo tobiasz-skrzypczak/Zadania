@@ -1,1 +1,1 @@
-php_uname
+phpkfmk 
